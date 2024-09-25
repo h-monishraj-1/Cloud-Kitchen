@@ -1,0 +1,38 @@
+1) for creating admin login- we can directly insert the details in the MariaDB in XAMPP>Shell (see below)
+INSERT INTO `admin` (`adm_id`, `username`, `password`, `email`, `code`, `date`)  VALUES  (2, 'admin_user', 'admin_password', 'admin@example.com', 'admin_code', CURRENT_TIMESTAMP); -- ruled out
+
+
+admin details: ccbd
+admin pass: CodeCampBD2023
+
+users:
+- Monishraj
+- monishraj
+
+- user2
+- useruser2
+
+
+- user3
+- useruser3
+
+
+example dishes:
+
+Yorkshire Lamb Patties -> Seekh Kebab: Minced lamb mixed with spices, shaped into patties, and grilled or cooked on skewers.
+Lobster Thermidor -> Tandoori Lobster: Lobster marinated in a spicy yogurt-based marinade and cooked in a tandoor (clay oven).
+Chicken Madeira -> Butter Chicken: Tender chicken cooked in a creamy tomato-based gravy, flavored with butter and various spices.
+Stuffed Jacket Potatoes -> Aloo Tikki: Mashed potato patties mixed with spices and stuffed with a savory filling, then fried until crispy.
+Pink Spaghetti Gamberoni -> Butter Garlic Prawn Pasta: Spaghetti cooked with prawns in a creamy butter and garlic sauce.
+Cheesy Mashed Potato -> Paneer Makhani: Cubes of paneer (Indian cottage cheese) cooked in a rich and creamy tomato-based gravy.
+Crispy Chicken Strips -> Chicken 65: Spicy, deep-fried chicken strips seasoned with Indian spices.
+Lemon Grilled Chicken And Pasta -> Chicken Biryani: Fragrant rice cooked with marinated chicken pieces and aromatic spices.
+Vegetable Fried Rice -> Vegetable Biryani: Fragrant rice cooked with mixed vegetables and spices, often garnished with fried onions and nuts.
+Prawn Crackers -> Prawn Biryani: Fragrant rice cooked with prawns and aromatic spices, served with raita (yogurt sauce).
+Spring Rolls -> Vegetable Samosa: Crispy pastry filled with a spicy mixture of mashed potatoes, peas, and spices, then deep-fried until golden brown.
+Manchurian Chicken -> Chicken Chilli: Batter-fried chicken pieces tossed in a spicy and tangy sauce with onions and bell peppers.
+Buffalo Wings -> Tandoori Chicken Wings: Chicken wings marinated in a spicy yogurt-based marinade and cooked in a tandoor (clay oven).
+Mac N Cheese Bites -> Paneer Pakora: Cubes of paneer (Indian cottage cheese) coated in a spiced chickpea flour batter and deep-fried until crispy.
+Signature Potato Twisters -> Aloo Chaat: Fried potato twisters topped with tangy tamarind chutney, yogurt, and spices.
+Meatballs Penne Pasta -> Keema Pasta: Penne pasta cooked with minced meat (keema) and flavored with Indian spices.
+

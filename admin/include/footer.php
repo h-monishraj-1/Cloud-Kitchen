@@ -1,0 +1,1 @@
+ <footer class="footer" style="text-align: center;">Cloud Kitchen © 2024 - Delicious Homemade Food<br><a href="https://www.linkedin.com/in/monish-raj-h/">Developed by - H Monish Raj - 22BPS1195</a></footer>
